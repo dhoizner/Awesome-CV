@@ -8,6 +8,9 @@
 *.out
 *.toc
 
+*.pdf
+*.synctex.gz
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
